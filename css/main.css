@@ -1,0 +1,24 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#view_ajax{
+	display:block;
+	overflow:auto;
+	width: 500px; 
+	height: 300px; 
+	border: 1px solid #333;
+	margin: 10px auto 0;
+}
+
+#ajaxForm{
+	display:block;
+	margin:10px auto 0;
+	width: 500px; 
+	height:50px;
+}
+
+#chatInput{
+	width: 454px;
+}
